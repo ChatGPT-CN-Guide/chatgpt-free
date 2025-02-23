@@ -1,4 +1,4 @@
-# 无需翻墙，ChatGPT 中文版：国内访问指南（支持GPT-4，GPT-4o，GPT-o1）
+ChatGPT 中文版免费：国内访问指南（支持GPT-4，GPT-4o，GPT-o1）
 
 > **更新时间：2025/02/23**  
 > **作者：nasdli**
