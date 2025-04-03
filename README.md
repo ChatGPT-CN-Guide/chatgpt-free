@@ -55,7 +55,7 @@ ChatGPT 镜像网站：[https://gptcat.cc](https://gptcat.cc)
 ### **方法一：使用免费镜像网站**
 通过国内优化的镜像站点，您可以直接体验 ChatGPT 中文版，无需翻墙，部分站点还提供 GPT-4 免费额度。
 
-1. **访问推荐镜像站点**：如 [snakegpt.work](https://snakegpt.work) 或 [gptcat.net](https://gptcat.net)。
+1. **访问推荐镜像站点**：如 [snakegpt.work](https://snakegpt.work) 或 [gptcat.cc](https://gptcat.cc)。
 2. **注册账号**：
    - 填写邮箱和密码，快速创建账号。
    - 部分站点无需注册，直接进入聊天界面。
@@ -88,7 +88,7 @@ ChatGPT 镜像网站：[https://gptcat.cc](https://gptcat.cc)
 
 **推荐理由**：
 1. `snakegpt.work`：支持 GPT-4，提供免费额度，适合中文深度体验。
-2. `gptcat.net`：简洁中文界面，免注册快速体验。
+2. `gptcat.cc`：简洁中文界面，免注册快速体验。
 3. `ai-panda.xyz`：支持开发者 API 调用，功能强大。
 4. `gptdog.online`：完全免费，适合新手快速上手。
 
@@ -120,7 +120,7 @@ ChatGPT 镜像网站：[https://gptcat.cc](https://gptcat.cc)
 ## 常见问题解答（FAQ）
 
 1. **ChatGPT 中文版免费吗？**  
-   是的，部分镜像站点提供免费额度，推荐使用 `snakegpt.work` 或 `gptcat.net`。
+   是的，部分镜像站点提供免费额度，推荐使用 `snakegpt.work` 或 `gptcat.cc`。
 
 2. **如何使用 GPT-4 免费功能？**  
    注册国内镜像站点账号，选择 GPT-4 模型，即可享受免费试用。
@@ -155,4 +155,4 @@ ChatGPT 镜像网站：[https://gptcat.cc](https://gptcat.cc)
 
                                                                                                                                                                                                                                                                                                                        
                                                  
- 
+   
